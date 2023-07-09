@@ -6,7 +6,7 @@
 # 安装依赖
 pnpm  install
 # 输出 result.json
-pnpm index.mjs
+node index.mjs
 ```
 
 ## 说明
